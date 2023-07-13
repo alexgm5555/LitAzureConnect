@@ -1,0 +1,20 @@
+{
+  "name": "inputlit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.3"
+  },
+  "dependencies": {
+    "@azure/msal-browser": "^2.37.1",
+    "lit": "^2.7.5",
+    "wired-elements": "^3.0.0-rc.6"
+  }
+}
